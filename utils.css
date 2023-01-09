@@ -1,3 +1,16 @@
 .text-center{
   text-align:center;
 }
+/* align the text in center */
+.bg-red{
+  background: red;
+}
+/* form the background color red */
+.mx-auto{
+  margin:auto;
+}
+/* margin auto helps to make box flexible */
+.m-w-30vw{
+  max-width:30vw;
+}
+/* it gives width to the box */
