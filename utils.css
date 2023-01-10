@@ -10,7 +10,26 @@
   margin:auto;
 }
 /* margin auto helps to make box flexible */
-.m-w-30vw{
+/* .m-w-30vw{
   max-width:30vw;
-}
+} */
 /* it gives width to the box */
+.flex {
+  display: flex;
+}
+.flex-col{
+  flex-direction: column;
+}
+.items-center{
+  align-items: center;
+}
+.row{
+  margin:8px 0;
+}
+.row input{
+  font-size: 20px;
+  margin: 0;
+  padding:10px 0px;
+  border:2px solid black;
+  border-radius: 5px;
+}

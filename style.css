@@ -1,4 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&family=Nunito:ital@1&display=swap');
 html, body {
   height: 100%;
   width: 100%;
+  font-family: 'Nerko One', cursive;
+}
+.button{
+  width:66px;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+}
+/* increase size of the buttons */
+.row{
+  margin: 4px 0;
 }
